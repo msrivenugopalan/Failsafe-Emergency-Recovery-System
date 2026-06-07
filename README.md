@@ -90,6 +90,7 @@ http://192.168.4.1
 4. Motor actions are executed based on decision logic
 5. Data is logged into SD card in real time
 6. OLED updates system status continuously
+
 Basic circuit diagram without OLED and driver module with final project output is given as follows:
 
 <img width="907" height="732" alt="Failsafe emergency recovery system" src="https://github.com/user-attachments/assets/4a856eee-9352-4883-9969-4c025af4f7a2" />                                                                                                                                                                                                                                    
