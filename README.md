@@ -23,7 +23,7 @@ The system integrates sensor-based obstacle detection, dynamic motor control, wi
 - Adaptive speed control based on obstacle proximity:
   - ≤ 10 cm → Emergency STOP
   - 10–30 cm → Reverse + directional recovery
-  - > 30 cm → Normal forward motion
+  - distance > 30 cm → Normal forward motion
 - Intelligent pivot-based obstacle avoidance
 
 ### Manual Mode (MANUAL)
@@ -57,8 +57,8 @@ The system integrates sensor-based obstacle detection, dynamic motor control, wi
 
 ### WiFi Configuration
 The ESP32 operates in Soft Access Point mode:
-SSID: ESP32_ROBOT
-Password: 12345678
+SSID: your_wifi_name
+Password: your_password
 
 ### Control Interface
 Access the control dashboard via browser:
