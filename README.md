@@ -57,6 +57,7 @@ The system integrates sensor-based obstacle detection, dynamic motor control, wi
 
 ### WiFi Configuration
 The ESP32 operates in Soft Access Point mode:
+
 SSID: your_wifi_name
 Password: your_password
 
@@ -89,9 +90,9 @@ http://192.168.4.1
 4. Motor actions are executed based on decision logic
 5. Data is logged into SD card in real time
 6. OLED updates system status continuously
-<img width="907" height="732" alt="Failsafe emergency recovery system" src="https://github.com/user-attachments/assets/4a856eee-9352-4883-9969-4c025af4f7a2" />
-(Basic circuit without OLED and driver module)
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3657687e-c9da-4f9b-857d-cc5c7a00c250" />
+<img width="907" height="732" alt="Failsafe emergency recovery system" src="https://github.com/user-attachments/assets/4a856eee-9352-4883-9969-4c025af4f7a2" />                                                               
+(Basic circuit without OLED and driver module)                                                                                                                                                                      
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3657687e-c9da-4f9b-857d-cc5c7a00c250" />                                                                                 
 (Final project output)
 ---
 
@@ -114,8 +115,10 @@ http://192.168.4.1
 ---
 
 ## Author
-Srivenugopalan M
+# Srivenugopalan M
+
 Embedded Systems & IoT Developer  
+
 Focused on automation and real-time embedded systems.
 
 ---
