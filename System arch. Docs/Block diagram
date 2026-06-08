@@ -1,0 +1,18 @@
+            ┌──────────────┐
+            │  Ultrasonic  │
+            │   Sensor     │
+            └──────┬───────┘
+                   │
+                   ▼
+┌────────────── ESP32 CONTROLLER ──────────────┐
+│                                              │
+│  AUTO MODE LOGIC      MANUAL MODE (WiFi UI)  │
+│                                              │
+│  OLED Display         SD Card Logging        │
+└───────┬───────────┬───────────────┬──────────┘
+        │           │               │
+        ▼           ▼               ▼
+   Motor Driver   OLED Display   SD Card
+        │
+        ▼
+     DC Motors
