@@ -12,7 +12,7 @@ Adafruit_SH1106G display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // ---------- WIFI ----------
 const char* ssid = "ESP32_ROBOT";
-const char* password = "12345678";
+const char* password = "Your_password";
 WiFiServer server(80);
 
 // ---------- ULTRASONIC ----------
